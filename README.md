@@ -1,0 +1,2 @@
+# HospitalComprehensiveManagementSystem
+ 基于SpringBoot Vue医院综合管理系统
